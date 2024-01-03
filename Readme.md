@@ -1,6 +1,6 @@
 # Crypto Data Analytics
 
-# Note: This is an assessment given to ALTSCHOOL DATA ENGINEERING STUDENTS.
+## Note: This is an assessment given to ALTSCHOOL DATA ENGINEERING STUDENTS.
 
 ## Introduction:
 Welcome to my Crypto Data Analysis project! As a dedicated data engineer, you've been entrusted with the crucial task of delving into the world of cryptocurrencies to extract valuable insights for an esteemed company executives. This README will guide you through the process of loading and analyzing the provided CSV files, and helping you to address important business questions and informed decision-making.
