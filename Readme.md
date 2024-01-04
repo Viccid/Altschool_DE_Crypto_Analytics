@@ -26,7 +26,7 @@ Shared CSV files that contain information on different cryptocurrencies.
     
     
     
-      Setup:
+## Setup:
 
 To get started, ensure that you have the necessary tools and libraries installed. i recommend using Postgres, DBeaver and VScode. You may use popular libraries such as Pandas, Python, Numpy. 
 Ensure to use your local system terminal to create the USER and PASSWORD which is highly recommended, DATABASE and SCHEMA respectively.
@@ -38,14 +38,14 @@ Ensure to use your local system terminal to create the USER and PASSWORD which i
 
 Then test your connecting on DBeaver before importing data
 
-    Loading the Data:
+## Loading the Data:
 Use your preferred method to import the CSV files into a DBeaver. Make sure to inspect the data structure and familiarize yourself with the available columns.
 
     Display basic information about the DataFrame:
     SELECT  * 
     FROM raw.transactions;
 
-Noting that, the transaction file, contains more required information for this analysis, using the above query.
+Note the transaction file, contains more required information for this analysis, using the above query.
 
 
 
