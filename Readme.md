@@ -54,17 +54,17 @@ Noting that, the transaction file, contains more required information for this a
 
 Clean the data to handle any missing values and duplicates, if available or outliers that may affect the accuracy of your analysis.
 
-    Analysis:
+## Analysis:
 Analysis phase. Answer the specific business questions provided by the executives using the insights gained from the data.
 
     Visualization:
 
 Enhance your findings by creating visualizations that make complex trends and patterns more accessible to the executives.
 
-    Reporting:
+## Reporting:
 Document your findings and insights in your report.present your analyses, visualizations if required, and recommendations to provide a holistic understanding of the cryptocurrency landscape.
 
-    Conclusion:
+## Conclusion:
 By following these instructions, you'll be well-equipped to embark on a meaningful journey into the realm of cryptocurrency data analysis. Your efforts are crucial in shaping informed decisions for the company future.
 
 
